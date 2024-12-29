@@ -1,6 +1,20 @@
-# Facial Keypoint Detection
+# Facial Keypoint Detection Project
 
-This project is a facial keypoint detection system that predicts 68 facial landmarks (keypoints) from an image. The model was trained on a small version of the Flickr dataset, which contains images and corresponding landmark coordinates. The system detects facial landmarks in real-time using a webcam feed, processes the image to detect faces, and then predicts and displays the landmarks on the face.
+This project demonstrates the process of detecting facial keypoints using a convolutional neural network (CNN) trained on the "Facial Key Points Detection" dataset from Kaggle.
+
+## Demo Video
+
+Watch the demo video below to see the facial keypoint detection in action:
+
+![Demo Video](path/to/demo_video.mp4)
+
+Alternatively, you can download the video and view it locally.
+
+## Model Download
+
+You can download the trained model used for facial keypoint detection from the following link:
+
+[Download the Trained Model](https://link_to_your_model_download)
 
 ## Project Overview
 
