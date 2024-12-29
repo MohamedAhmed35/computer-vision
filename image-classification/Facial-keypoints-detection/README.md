@@ -13,7 +13,7 @@ you can download the video and view it locally.
 
 You can download the trained model used for facial keypoint detection from the following link:
 
-[Download the Trained Model](https://link_to_your_model_download)
+[Download the Trained Model](https://drive.google.com/file/d/1meCa6tbq78QISmsUEuLMvHEI-4CbQnti/view?usp=drive_link)
 
 ## Project Overview
 
