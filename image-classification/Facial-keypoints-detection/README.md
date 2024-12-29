@@ -6,7 +6,7 @@ This project demonstrates the process of detecting facial keypoints using a conv
 
 Watch the demo video below to see the facial keypoint detection in action:
 
-![Demo Video](path/to/demo_video.mp4)
+![Demo Video](https://github.com/MohamedAhmed35/computer-vision/blob/main/image-classification/Facial-keypoints-detection/bandicam%202024-12-29%2020-07-14-280.mp4)
 
 Alternatively, you can download the video and view it locally.
 
