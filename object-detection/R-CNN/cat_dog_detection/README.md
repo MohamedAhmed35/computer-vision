@@ -7,3 +7,8 @@ While modern models like YOLO and Faster R-CNN provide faster and more accurate 
 ## Key Features
 ### 1. Region Proposal Generation
    - Generated candidate regions using Selective Search, limiting proposals to 50 per image for computational efficiency.
+   - Annotated regions with class labels and bounding box coordinates, saved in structured CSV files.
+### 2. Feature Extraction
+   - Leveraged a pre-trained VGG16 network (excluding dense layers) to extract 4096-dimensional feature vectors for each proposal.
+   - These vectors served as inputs for both classification and bounding box refinement tasks.
+
