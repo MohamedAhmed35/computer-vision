@@ -5,5 +5,5 @@ THis project implements an R-CNN **pipeline** inspired by the groudbreaking **R-
 While modern models like YOLO and Faster R-CNN provide faster and more accurate solutions, this project focuses on understanding and recreating the original R-CNN methodology, which served as the foundation for these advancements.
 
 ## Key Features
-1.  Region Proposal Generation
-   -  Generated candidate regions using Selective Search, limiting proposals to 50 per image for computational efficiency.
+   1.  Region Proposal Generation
+      -  Generated candidate regions using Selective Search, limiting proposals to 50 per image for computational efficiency.
