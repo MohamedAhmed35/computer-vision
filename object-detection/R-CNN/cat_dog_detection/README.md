@@ -19,7 +19,7 @@ While modern models like YOLO and Faster R-CNN provide faster and more accurate 
    - Because the transformation parameter was calculated based on IOU between 0.6 and 1 (as the paper suggested), the regressor was not giving accurate results when used to adjust the predicted bounding box.
 ### 5. Testing and Optimization
    - **Softmax-based scoring** to prioritize predictions by confidence.
-   - **Non-Maximum Suppression (NMS), adapted from YOLO, using dynamically selected bounding boxes as ground truth for IoU calculations, to remove redundant bounding boxes with overlapping regions.
+   - **Non-Maximum Suppression (NMS)** adapted from YOLO, using dynamically selected bounding boxes as ground truth for IoU calculations, to remove redundant bounding boxes with overlapping regions.
 
 ## Results
 The pipeline successfully detects and localizes cats and dogs, though it highlights the computational bottlenecks of the original R-CNN approach. This project serves as an educational tool for understanding the evolution of object detection.
