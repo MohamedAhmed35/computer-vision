@@ -24,7 +24,7 @@ While modern models like YOLO and Faster R-CNN provide faster and more accurate 
 ## Results
 The pipeline successfully detects and localizes cats and dogs, though it highlights the computational bottlenecks of the original R-CNN approach. This project serves as an educational tool for understanding the evolution of object detection.
    - Bounding box Refinement
-     ![Example Image](/images/results/adjust_bounding_box_1.png)  
+     ![Example Image](https://github.com/MohamedAhmed35/computer-vision/blob/main/object-detection/R-CNN/cat_dog_detection/images/results/adjust_bounding_box_1.png)  
 
 
 ## Repository Structure
